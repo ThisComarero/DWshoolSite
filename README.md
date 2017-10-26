@@ -1,2 +1,0 @@
-# DWshoolSite
-school site
